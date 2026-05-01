@@ -30,6 +30,8 @@ My work focuses on graph signal processing, graph learning, and alrogithm unroll
 
 - **2024** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
 
+- **2021** - Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づくグラフ学習", 36th Signal Processing Symposium.
+
 ## Grant and Funding
 
 - **2023-2024** – Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency.
