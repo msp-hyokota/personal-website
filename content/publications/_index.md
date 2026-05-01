@@ -24,9 +24,15 @@ H. Yokota, K. Yamada, Y.Tanaka, A. Ortega.
 
 ## 2025
 
+**Unrolled Multimodal Signal Restoration with Signed Twofold Graph Learning**
+H. Yokota, H. Higashi, Y.Tanaka
+*2025 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11249351)
+
 **Efficient learning of balanced signed graphs via iterative linear programming.**
 H. Yokota, H. Higashi, Y. Tanaka, G. Cheung.
 *ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing*, 2025.
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10889822)
 
 ## 2024
 
