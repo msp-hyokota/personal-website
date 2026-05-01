@@ -26,6 +26,10 @@ My work focuses on graph signal processing, graph learning, and alrogithm unroll
 
 - **April 2024 - Sept. 2024** Part-time lecturer at Setsunan University, Osaka, Japan
 
+## Awards
+
+- **2024** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
+
 ## Grant and Funding
 
 - **2023-2024** – Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency.
