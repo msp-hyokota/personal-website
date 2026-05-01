@@ -8,7 +8,7 @@ showReadingTime: false
 showTableOfContents: true
 ---
 
-Also on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) · [ORCID](https://orcid.org/0000-0000-0000-0000).
+Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ) · [ORCID](https://orcid.org/0009-0000-4452-4592).
 
 ## 2026
 
