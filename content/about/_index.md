@@ -8,14 +8,14 @@ showReadingTime: false
 showTableOfContents: true
 ---
 
-I'm a researcher at MSP Lab working on [your research area].
-My work focuses on [topic 1], [topic 2], and [topic 3].
+I'm a graduate student at the university of Osaka, MSP Lab, working on Signal Processing.
+My work focuses on graph signal processing, graph learning, and alrogithm unrolling.
 
 ## Research interests
 
-- Topic A — Graph Signal Processing
-- Topic B — Network Topology Identification
-- Topic C — Biomedical Signal Processing
+- Graph Signal Processing
+- Network Topology Identification
+- Biomedical Signal Processing
 
 ## Education
 
