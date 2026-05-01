@@ -10,8 +10,7 @@ showTableOfContents: false
 
 ## About
 
-I'm a graduate student at the University of Osaka, MSP Lab, working on Signal Processing.
-My work focuses on graph signal processing, graph learning, and algorithm unrolling.
+<p style="text-align:center;">I'm a graduate student at the University of Osaka, MSP Lab, working on Signal Processing.<br>My work focuses on graph signal processing, graph learning, and algorithm unrolling.</p>
 
 **Research Interests**
 - Graph Signal Processing
