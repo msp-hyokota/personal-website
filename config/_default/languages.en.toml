@@ -1,0 +1,90 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Haruki Yokota"
+
+[params]
+  displayName = "Haruki Yokota"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Haruki Yokota"
+  image = "img/profile.jpg"        # we'll add this file in a moment
+  headline = "Doctoral Student at the University of Osaka"
+  bio = "Haruki Yokota received B.E. and M.E. degrees from Tokyo University of Agriculture and Technology, Tokyo, Japan, in 2020 and 2022, respectively. He is a full-time student at the Graduate School of Engineering, University of Osaka, Osaka, Japan, supported by the Japan Society for the Promotion of Science (JSPS). His current research interests are in the area of high-dimensional signal processing and machine learning, including graph signal processing, geometric deep learning, and sensor networks. He received the IEEE SPS Tokyo Joint Chapter Student Award in 2023."
+  links = [
+    { email = "mailto:hyokota@msp-lab.org" },
+    { github = "https://github.com/msp-hyokota" },
+    { "google-scholar" = "https://scholar.google.com/citations?user=NBHWoy4AAAAJ" },
+    { orcid = "https://orcid.org/0009-0000-4452-4592" },
+  ]
+# [params.author]
+#   name = "Your name here"
+#   email = "youremail@example.com"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
+#   links = [
+#     { email = "mailto:hello@your_domain.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { bluesky = "https://bsky.app/profile/username" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+#     { github = "https://github.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { itch-io = "https://username.itch.io" },
+#     { keybase = "https://keybase.io/username" },
+#     { keyoxide = "https://keyoxide.org/URI" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { matrix = "https://matrix.to/#/URI" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { signal = "https://signal.me/#eu/userid" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { spotify = "https://open.spotify.com/user/userid" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { strava = "https://www.strava.com/athletes/username" },
+#     { telegram = "https://t.me/username" },
+#     { threads = "https://www.threads.net/@username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+#     { untappd = "https://untappd.com/user/username" },
+#     { twitter = "https://twitter.com/username" },
+#     { x-twitter = "https://twitter.com/username" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+#     { codeberg = "https://codeberg.org/username"},
+#     { printables = "https://www.printables.com/@username"},
+#   ]
