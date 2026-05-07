@@ -47,6 +47,19 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-links"><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
 </div>
 
+<div class="pub-entry">
+<div class="pub-title">Auditory Attention Decoding without Spatial Information: A Diotic EEG Study <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-authors">M. Yoshino, H. Yokota, J. Hara, H. Higashi, Y. Tanaka</div>
+<div class="pub-venue">EMBC 2026, Toronto, Canada</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2601.16442">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">脳波に基づく両耳同音環境での聴覚的注意デコーディング <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">吉野将裕, 横田陽樹, 原惇也, 田中雄一, 東広志</div>
+<div class="pub-venue">第12回 音声・音響・信号処理ワークショップ（SPEASIP）, 沖縄, 2026年1月</div>
+</div>
+
 ### 2025
 
 <div class="pub-entry">
@@ -73,6 +86,12 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-title">深層展開を用いたマルチモーダル信号復元のためのTwofoldグラフ学習 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
 <div class="pub-authors">横田 陽樹, 東 宏志, 田中 雄一</div>
 <div class="pub-venue">第40回信号処理シンポジウム, 茨城, 2025年11月</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">敵対的操作が人の意思決定に与える影響のモデル化 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">内海健介, 横田陽樹, 東広志, 田中雄一</div>
+<div class="pub-venue">日本認知科学会第42回大会, 東京, 2025年9月</div>
 </div>
 
 ### 2024
