@@ -24,6 +24,7 @@ My work focuses on graph signal processing, graph learning, and alrogithm unroll
 
 ## Personal Appointment
 
+- **May 2025 - June 2025** Invitational research trainee at York University, Toronto, Canada
 - **April 2024 - Sept. 2024** Part-time lecturer at Setsunan University, Osaka, Japan
 
 ## Awards
