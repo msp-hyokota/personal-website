@@ -24,6 +24,7 @@ showTableOfContents: false
 
 ## Appointment
 
+- **May 2025 - June 2025** Invitational research trainee at York University, Toronto, Canada
 - **April 2024 – Sept. 2024** — Part-time lecturer, Setsunan University, Osaka, Japan
 
 ## Publications
