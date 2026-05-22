@@ -123,6 +123,28 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-venue">電子情報通信学会信号処理研究会 (IEICE Technical Report), vol. 123, no. 152, SIP2023-58, pp. 55–59, 吹田, 2023年8月</div>
 </div>
 
+## 2022
+
+<div class="pub-entry">
+<div class="pub-title">USigned Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-authors">H. Yokota, Y. Tanaka, Gene Cheung</div>
+<div class="pub-venue">APSIPA ASC 2022, Thailand (Research abstract)</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">グラフカットを用いた符号付きグラフのバランス化 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">横田 陽樹, 原 惇也, 田中 雄一, Gene Cheung</div>
+<div class="pub-venue">第38回信号処理シンポジウム, 新潟, 2022年12月</div>
+</div>
+
+## 2021
+
+<div class="pub-entry">
+<div class="pub-title">局所的な時間変動制約に基づく時変グラフ学 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">横田 陽樹, 山田 宏樹, 田中 雄一</div>
+<div class="pub-venue">第36回信号処理シンポジウム, オンライン, 2021年11月</div>
+</div>
+
 ## Awards
 
 - **2024** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
