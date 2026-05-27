@@ -34,16 +34,23 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ### 2026
 
 <div class="pub-entry">
+<div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
+<div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
+<div class="pub-venue">Pre-print on arXiv (Submitted to ATSIP)</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2605.26760">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
 <div class="pub-title">Efficient learning of balanced signed graphs via sparse linear programming <span class="pub-tag pub-tag-preprint">Preprint</span></div>
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka, G. Cheung</div>
-<div class="pub-venue">Pre-print on arXiv</div>
+<div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2506.01826">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
 <div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-preprint">Preprint</span></div>
 <div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
-<div class="pub-venue">Pre-print on arXiv</div>
+<div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
 </div>
 
