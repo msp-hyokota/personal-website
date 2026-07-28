@@ -16,8 +16,8 @@
   weight = 30
 
 [[main]]
-  name = "CV"
-  url = "/cv.pdf"
+  name = "Bio"
+  url = "/biography/"
   weight = 40
 
 [[main]]

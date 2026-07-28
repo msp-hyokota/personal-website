@@ -48,10 +48,10 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 </div>
 
 <div class="pub-entry">
-<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-preprint">Preprint</span></div>
+<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-intl">International</span></div>
 <div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
-<div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
-<div class="pub-links"><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
+<div class="pub-venue">IEEE Transactions on Signal Processing (early access)</div>
+<div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
@@ -130,7 +130,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-venue">電子情報通信学会信号処理研究会 (IEICE Technical Report), vol. 123, no. 152, SIP2023-58, pp. 55–59, 吹田, 2023年8月</div>
 </div>
 
-## 2022
+### 2022
 
 <div class="pub-entry">
 <div class="pub-title">USigned Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
@@ -144,7 +144,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-venue">第38回信号処理シンポジウム, 新潟, 2022年12月</div>
 </div>
 
-## 2021
+### 2021
 
 <div class="pub-entry">
 <div class="pub-title">局所的な時間変動制約に基づく時変グラフ学 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
