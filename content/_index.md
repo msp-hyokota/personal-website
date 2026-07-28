@@ -48,7 +48,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 </div>
 
 <div class="pub-entry">
-<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
 <div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
 <div class="pub-venue">IEEE Transactions on Signal Processing (early access)</div>
 <div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
@@ -91,7 +91,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 
 <div class="pub-entry">
 <div class="pub-title">深層展開を用いたマルチモーダル信号復元のためのTwofoldグラフ学習 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
-<div class="pub-authors">横田 陽樹, 東 宏志, 田中 雄一</div>
+<div class="pub-authors">横田 陽樹, 東 広志, 田中 雄一</div>
 <div class="pub-venue">第40回信号処理シンポジウム, 茨城, 2025年11月</div>
 </div>
 
@@ -133,7 +133,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ### 2022
 
 <div class="pub-entry">
-<div class="pub-title">USigned Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-title">Signed Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
 <div class="pub-authors">H. Yokota, Y. Tanaka, Gene Cheung</div>
 <div class="pub-venue">APSIPA ASC 2022, Thailand (Research abstract)</div>
 </div>
@@ -147,7 +147,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ### 2021
 
 <div class="pub-entry">
-<div class="pub-title">局所的な時間変動制約に基づく時変グラフ学 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-title">局所的な時間変動制約に基づく時変グラフ学習 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
 <div class="pub-authors">横田 陽樹, 山田 宏樹, 田中 雄一</div>
 <div class="pub-venue">第36回信号処理シンポジウム, オンライン, 2021年11月</div>
 </div>

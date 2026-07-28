@@ -48,9 +48,14 @@ Publications are rendered as styled HTML cards using custom CSS classes defined 
 ```
 
 Tag classes:
+- `pub-tag-journal` — rose, for journal / transaction papers
 - `pub-tag-intl` — purple, for international conferences
 - `pub-tag-domestic` — green, for domestic (Japanese) conferences
 - `pub-tag-preprint` — amber, for arXiv preprints
+
+`pub-tag-intl` and `pub-tag-domestic` are for **conference papers only**. Journal and
+transaction papers (e.g. IEEE Transactions on Signal Processing) use `pub-tag-journal`
+regardless of where the publisher is based.
 
 The `pub-links` div is optional (omit if no links available).
 
@@ -61,7 +66,7 @@ Any change to publications must be applied to **both** `content/_index.md` and `
 `assets/css/custom.css` contains:
 - `article .prose { text-align: left; }` — overrides Blowfish profile layout's `text-center` so body content is left-aligned
 - Publication card styles (`.pub-entry`, `.pub-title`, `.pub-authors`, `.pub-venue`, `.pub-links`)
-- Tag badge styles (`.pub-tag`, `.pub-tag-intl`, `.pub-tag-domestic`, `.pub-tag-preprint`)
+- Tag badge styles (`.pub-tag`, `.pub-tag-journal`, `.pub-tag-intl`, `.pub-tag-domestic`, `.pub-tag-preprint`)
 
 Do not remove these — removing the prose override will cause all content to center-align.
 
