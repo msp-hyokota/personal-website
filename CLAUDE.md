@@ -24,6 +24,10 @@ Built with Hugo + Blowfish theme, deployed to GitHub Pages at **https://haruki-y
 | `content/_index.md` | **Main single-page layout** — all sections live here |
 | `content/about/_index.md` | Standalone About page (mirrors About section on home) |
 | `content/publications/_index.md` | Standalone Publications page (mirrors Publications section on home) |
+| `content/biography/_index.md` | Short CV / IEEE-style bio, linked from the "Bio" nav item |
+| `content/posts/` | News posts — surfaced as the "News" section on the home page |
+| `layouts/partials/home/profile.html` | Theme override: moves the News section above the page content |
+| `i18n/en.yaml` | Theme string overrides (renames "Recent" → "News") |
 | `static/CNAME` | Custom domain declaration (`haruki-yokota.jp`) |
 | `static/.nojekyll` | Prevents GitHub from running Jekyll on the repo |
 | `.github/workflows/deploy.yml` | CI/CD: builds with Hugo, deploys to GitHub Pages |
@@ -33,6 +37,22 @@ Built with Hugo + Blowfish theme, deployed to GitHub Pages at **https://haruki-y
 The site uses a **single-page layout**. All content (About, Publications, Awards, Grants, Contact) is in `content/_index.md`. The navigation menu uses anchor links (`/#about`, `/#publications`, `/#awards`) to jump to sections on the home page.
 
 Individual section pages (`about/`, `publications/`) still exist and are kept in sync manually.
+
+## News Section
+
+Anything in `content/posts/` shows up as the **News** list on the home page, directly
+under the profile header and above About. Two pieces make that work:
+
+- `layouts/partials/home/profile.html` overrides the theme partial purely to move the
+  recent-articles block above `.Content`. The page content must stay wrapped in an
+  `<article>` element — `assets/css/custom.css` targets `article .prose` to undo the
+  theme's `text-center`, so swapping that wrapper for a `<div>` re-centers everything.
+- `i18n/en.yaml` renames the theme's `shortcode.recent_articles` string from
+  "Recent" to "News".
+
+`showRecentItems` in `config/_default/params.toml` caps how many appear (currently 5).
+Posts are ordered by their `date` front matter, so backdate a post to place it correctly
+in the timeline.
 
 ## Publications Format
 

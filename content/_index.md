@@ -155,7 +155,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ## Awards
 
 - **2024** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
-- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づくグラフ学習", 36th Signal Processing Symposium.
+- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づく時変グラフ学習", 36th Signal Processing Symposium.
 
 ## Grants and Funding
 

@@ -1,0 +1,6 @@
+# Project-level overrides of themes/blowfish/i18n/en.yaml.
+# Hugo merges this over the theme's table key by key, so only the keys that
+# differ need to be listed here.
+
+shortcode:
+  recent_articles: "News"
