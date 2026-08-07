@@ -141,7 +141,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-entry">
 <div class="pub-title">グラフカットを用いた符号付きグラフのバランス化 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
 <div class="pub-authors">横田 陽樹, 原 惇也, 田中 雄一, Gene Cheung</div>
-<div class="pub-venue">第38回信号処理シンポジウム, 新潟, 2022年12月</div>
+<div class="pub-venue">第37回信号処理シンポジウム, 新潟, 2022年12月</div>
 </div>
 
 ### 2021
@@ -154,8 +154,8 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 
 ## Awards
 
-- **2024** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
-- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づく時変グラフ学習", 36th Signal Processing Symposium.
+- **2023** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
+- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づくグラフ学習", 36th Signal Processing Symposium.
 
 ## Grants and Funding
 
