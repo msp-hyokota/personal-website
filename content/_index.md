@@ -19,19 +19,34 @@ I'm a graduate student at the University of Osaka, MSP Lab, working on Signal Pr
 
 ## Education
 
+- **Ph.D. Candidate**, Engineering, University of Osaka, expected March 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Learning Graphs from Data under Structural Constraints
 - **M.S.**, Engineering, Tokyo University of Agriculture and Technology, 2023
 - **B.S.**, Engineering, Tokyo University of Agriculture and Technology, 2021
 
 ## Appointment
 
-- **May 2025 - June 2025** Invitational research trainee at York University, Toronto, Canada
-- **April 2024 – Sept. 2024** — Part-time lecturer, Setsunan University, Osaka, Japan
+- **May 2025 – June 2025** — Invitational research trainee, York University, Toronto, Canada
+- **April 2024 – March 2025** — Part-time lecturer, Setsunan University, Osaka, Japan
 
 ## Publications
 
 Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ) · [ORCID](https://orcid.org/0009-0000-4452-4592).
 
 ### 2026
+
+<div class="pub-entry">
+<div class="pub-title">Time-Varying Graph Learning with Constraints on Graph Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
+<div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
+<div class="pub-venue">IEEE Transactions on Signal Processing, vol. 74, pp. 3017–3032, 2026</div>
+<div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">Auditory Attention Decoding without Spatial Information: A Diotic EEG Study <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-authors">M. Yoshino, H. Yokota, J. Hara, H. Higashi, Y. Tanaka</div>
+<div class="pub-venue">EMBC 2026, Toronto, Canada, July 2026</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2601.16442">arXiv</a></div>
+</div>
 
 <div class="pub-entry">
 <div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
@@ -45,20 +60,6 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka, G. Cheung</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2506.01826">arXiv</a></div>
-</div>
-
-<div class="pub-entry">
-<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
-<div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
-<div class="pub-venue">IEEE Transactions on Signal Processing (early access)</div>
-<div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
-</div>
-
-<div class="pub-entry">
-<div class="pub-title">Auditory Attention Decoding without Spatial Information: A Diotic EEG Study <span class="pub-tag pub-tag-intl">International</span></div>
-<div class="pub-authors">M. Yoshino, H. Yokota, J. Hara, H. Higashi, Y. Tanaka</div>
-<div class="pub-venue">EMBC 2026, Toronto, Canada</div>
-<div class="pub-links"><a href="https://arxiv.org/abs/2601.16442">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
@@ -135,7 +136,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-entry">
 <div class="pub-title">Signed Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
 <div class="pub-authors">H. Yokota, Y. Tanaka, Gene Cheung</div>
-<div class="pub-venue">APSIPA ASC 2022, Thailand (Research abstract)</div>
+<div class="pub-venue">APSIPA ASC 2022, Chiang Mai, Thailand, October 2022 (Research abstract, non-peer reviewed)</div>
 </div>
 
 <div class="pub-entry">
@@ -155,12 +156,12 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ## Awards
 
 - **2023** – IEEE SPS Tokyo Joint Chapter Student Award, for "グラフカットを用いた符号付きグラフのバランス化", 37th Signal Processing Symposium.
-- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づくグラフ学習", 36th Signal Processing Symposium.
+- **2021** – Signal Processing Young Researcher Encouragement Award, for "局所的な時間変動制約に基づく時変グラフ学習", 36th Signal Processing Symposium.
 
 ## Grants and Funding
 
+- **2024–2026** – Research Fellowships for Young Scientists (DC2), Japan Society for the Promotion of Science (Grant-in-Aid for JSPS Fellows).
 - **2023–2024** – Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency.
-- **2024–2026** – Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (Grant-in-Aid for JSPS Fellows).
 
 ## Contact
 

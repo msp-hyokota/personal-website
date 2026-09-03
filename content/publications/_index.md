@@ -13,6 +13,20 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ## 2026
 
 <div class="pub-entry">
+<div class="pub-title">Time-Varying Graph Learning with Constraints on Graph Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
+<div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
+<div class="pub-venue">IEEE Transactions on Signal Processing, vol. 74, pp. 3017–3032, 2026</div>
+<div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">Auditory Attention Decoding without Spatial Information: A Diotic EEG Study <span class="pub-tag pub-tag-intl">International</span></div>
+<div class="pub-authors">M. Yoshino, H. Yokota, J. Hara, H. Higashi, Y. Tanaka</div>
+<div class="pub-venue">2026 IEEE Engineering in Medicine and Biology Conference (EMBC), Toronto, Canada, July 2026</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2601.16442">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
 <div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to ATSIP)</div>
@@ -24,20 +38,6 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka, G. Cheung</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2506.01826">arXiv</a></div>
-</div>
-
-<div class="pub-entry">
-<div class="pub-title">Time-varying Graph Learning with Constraints on Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
-<div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
-<div class="pub-venue">IEEE Transactions on Signal Processing (early access)</div>
-<div class="pub-links"><a href="https://doi.org/10.1109/TSP.2026.3712068">DOI</a><a href="https://arxiv.org/abs/2001.03346">arXiv</a></div>
-</div>
-
-<div class="pub-entry">
-<div class="pub-title">Auditory Attention Decoding without Spatial Information: A Diotic EEG Study <span class="pub-tag pub-tag-intl">International</span></div>
-<div class="pub-authors">M. Yoshino, H. Yokota, J. Hara, H. Higashi, Y. Tanaka</div>
-<div class="pub-venue">EMBC 2026, Toronto, Canada</div>
-<div class="pub-links"><a href="https://arxiv.org/abs/2601.16442">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
@@ -114,13 +114,13 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-entry">
 <div class="pub-title">Signed Graph Balancing with Spectral Clustering <span class="pub-tag pub-tag-intl">International</span></div>
 <div class="pub-authors">H. Yokota, Y. Tanaka, Gene Cheung</div>
-<div class="pub-venue">APSIPA ASC 2022, Thailand (Research abstract)</div>
+<div class="pub-venue">Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2022), Chiang Mai, Thailand, October 2022 (Research abstract, non-peer reviewed)</div>
 </div>
 
 <div class="pub-entry">
 <div class="pub-title">グラフカットを用いた符号付きグラフのバランス化 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
 <div class="pub-authors">横田 陽樹, 原 惇也, 田中 雄一, Gene Cheung</div>
-<div class="pub-venue">第38回信号処理シンポジウム, 新潟, 2022年12月</div>
+<div class="pub-venue">第37回信号処理シンポジウム, 新潟, 2022年12月</div>
 </div>
 
 ## 2021
