@@ -31,6 +31,7 @@ Built with Hugo + Blowfish theme, deployed to GitHub Pages at **https://haruki-y
 | `static/CNAME` | Custom domain declaration (`haruki-yokota.jp`) |
 | `static/.nojekyll` | Prevents GitHub from running Jekyll on the repo |
 | `.github/workflows/deploy.yml` | CI/CD: builds with Hugo, deploys to GitHub Pages |
+| `.claude/skills/website-update/` | Content-update workflow: citation lookup, local consistency checks, live-deploy verification |
 
 ## Site Structure
 
