@@ -27,6 +27,13 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 </div>
 
 <div class="pub-entry">
+<div class="pub-title">Multivariate signal restoration via Multifold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
+<div class="pub-authors">H. Yokota, Y. Tanaka</div>
+<div class="pub-venue">Pre-print on arXiv (Submitted to ICASSP 2027)</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2609.36854">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
 <div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to ATSIP)</div>
@@ -38,6 +45,12 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka, G. Cheung</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2506.01826">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">多変量時系列データからのMultifoldグラフの学習 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">横田陽樹, 田中雄一</div>
+<div class="pub-venue">電子情報通信学会信号処理研究会 (IEICE Technical Report), vol. 126, no. 157, SIP2026-45, pp. 51–56, 群馬, 2026年8月</div>
 </div>
 
 <div class="pub-entry">
