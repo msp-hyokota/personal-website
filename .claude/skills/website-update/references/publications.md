@@ -52,6 +52,7 @@ at the top of the domestic entries.
 | Event | Tag | Venue line | Links | Also |
 |---|---|---|---|---|
 | Posted to arXiv, submitted | Preprint | `Pre-print on arXiv (Submitted to ICASSP 2027)` | arXiv | — |
+| Journal accepted, DOI assigned but not yet resolving | Journal | `APSIPA Transactions on Signal and Information Processing (accepted, to appear)` | arXiv only; add the DOI once doi.org resolves it | Haruki's rule: keep the DOI out until it's live. Emerald (ATSIP) posts "EarlyCite", its early-access stage, after proofing. |
 | Journal accepted, early access | Journal | `IEEE Transactions on Signal Processing (early access)` | DOI, arXiv | run lookup: the title may have changed |
 | Journal issue assigned | Journal | `…, vol. 74, pp. 3017–3032, 2026` | DOI, arXiv | update the News post that mentioned it |
 | Conference accepted | International | e.g. `EMBC 2026, Toronto, Canada, July 2026` | arXiv / Xplore | move out of the preprint group |
@@ -66,7 +67,9 @@ line that cites it.
   `電子情報通信学会信号処理研究会 (IEICE Technical Report), vol. 126, no. 157, SIP2026-45, pp. 51–56, 群馬, 2026年8月`
 - 信号処理シンポジウム: `第40回信号処理シンポジウム, 茨城, 2025年11月`.
   The number is **year − 1985** (36th = 2021, 37th = 2022, 38th = 2023, 40th = 2025).
-  `check.py` enforces this; the 2022 entry once had the wrong number.
+  `check.py` enforces this; the 2022 entry once had the wrong number. The formula only
+  catches a wrong number. For the city and month of a new entry, check the official site
+  listed in `sources.md`.
 - Location: recent entries use the prefecture (茨城, 沖縄, 群馬); older ones use the city
   (吹田, 京都, 新潟). For new entries, use the prefecture and tell the user.
 - If the program only gives a building name (e.g. 森秋旅館), search for its address to

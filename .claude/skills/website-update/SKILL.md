@@ -43,6 +43,13 @@ site-formatted author and venue string.
 Some sources can't be fetched. See `references/sources.md` for which ones and what to do
 instead (IEEE Xplore and ken.ieice.org block automated access).
 
+Check the details the user types, too, not just DOIs. For a recurring venue (信号処理シンポジウム,
+SIP研究会, ICASSP, …), look up the official event page for its number, city and dates;
+`references/sources.md` lists where. `check.py`'s numbering rule is only a sanity check;
+the event page is the source. In a test run, the user's "第40回, 京都, 2026年11月" turned
+out to be the 41st, in Hiroshima, Dec 2–4, and only a run that checked the event site
+caught the city and date.
+
 Compare the official title with what the user gave you. Titles change during peer review
 (for example, "…on **Graph** Temporal Variation" gained a word). The user's own CV can be
 wrong too. When official records and the user's document disagree, use the official

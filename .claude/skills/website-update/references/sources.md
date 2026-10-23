@@ -8,6 +8,8 @@
 | doi.org | redirects to IEEE Xplore | only to learn the Xplore document number |
 | IEEE Xplore | ❌ returns an empty page | nothing; use Crossref instead |
 | ken.ieice.org (IEICE program / 講演論文詳細) | ❌ HTTP 403, even with curl and a browser UA | Ask the user for a PDF/screenshot of the 講演論文詳細 page. It has 発表日時, 開催地, 文献情報 (vol/no/pp), and the official English title and romanized author names. |
+| 信号処理シンポジウム official site (`conf.signalprocessing.jp/sips/`) | ✅ WebFetch | This year's number, city, venue and dates, plus submission deadlines. Check it before writing a symposium entry. |
+| IEEE SPS Tokyo Joint Chapter past events (`www.ieee-jp.org/section/tokyo/chapter/SP-01/past-event.htm`) | ✅ WebFetch | Past symposium numbers, cities and years |
 | Web search | ✅ | the address of a venue building (e.g. a ryokan); general confirmation |
 
 ## Machine quirks
