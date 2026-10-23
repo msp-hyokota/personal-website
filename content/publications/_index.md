@@ -13,6 +13,13 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 ## 2026
 
 <div class="pub-entry">
+<div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-journal">Journal</span></div>
+<div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
+<div class="pub-venue">APSIPA Transactions on Signal and Information Processing (accepted, to appear)</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2605.26760">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
 <div class="pub-title">Time-Varying Graph Learning with Constraints on Graph Temporal Variation <span class="pub-tag pub-tag-journal">Journal</span></div>
 <div class="pub-authors">H. Yokota, K. Yamada, Y. Tanaka, A. Ortega</div>
 <div class="pub-venue">IEEE Transactions on Signal Processing, vol. 74, pp. 3017–3032, 2026</div>
@@ -31,13 +38,6 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-authors">H. Yokota, Y. Tanaka</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to ICASSP 2027)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2609.36854">arXiv</a></div>
-</div>
-
-<div class="pub-entry">
-<div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-preprint">Preprint</span></div>
-<div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
-<div class="pub-venue">Pre-print on arXiv (Submitted to ATSIP)</div>
-<div class="pub-links"><a href="https://arxiv.org/abs/2605.26760">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
