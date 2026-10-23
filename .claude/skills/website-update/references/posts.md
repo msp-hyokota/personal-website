@@ -63,5 +63,5 @@ Tense matters: say "was presented" or "presented" only if the date has passed, a
 ## Standard titles used so far
 
 - `Paper published in IEEE Transactions on Signal Processing`
-- `Presented at the IEICE SIP Technical Committee Meeting`
+- `Presented at the IEICE SIP Workshop` (Haruki calls a 研究会 talk a workshop presentation, not a "technical committee meeting")
 - `Manuscript submitted to ICASSP 2027`
