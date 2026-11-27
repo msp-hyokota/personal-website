@@ -8,7 +8,7 @@ tags: ["publication", "journal", "graph signal processing"]
 
 Our paper **"Multimodal Signal Restoration with Signed Twofold Graph Learning"**
 has been accepted to *APSIPA Transactions on Signal and Information Processing*.
-The final version will appear once it is officially published.
+It has since been [published](/posts/atsip-2026-twofold-graph-published/) in vol. 15, pp. 797–827.
 
 Authors: H. Yokota, H. Higashi, Y. Tanaka
 

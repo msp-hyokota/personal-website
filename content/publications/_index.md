@@ -15,8 +15,8 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-entry">
 <div class="pub-title">Multimodal Signal Restoration with Signed Twofold Graph Learning <span class="pub-tag pub-tag-journal">Journal</span></div>
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka</div>
-<div class="pub-venue">APSIPA Transactions on Signal and Information Processing (accepted, to appear)</div>
-<div class="pub-links"><a href="https://arxiv.org/abs/2605.26760">arXiv</a></div>
+<div class="pub-venue">APSIPA Transactions on Signal and Information Processing, vol. 15, pp. 797–827, 2026</div>
+<div class="pub-links"><a href="https://doi.org/10.1108/ATSIP-05-2026-0040">DOI</a><a href="https://arxiv.org/abs/2605.26760">arXiv</a></div>
 </div>
 
 <div class="pub-entry">
