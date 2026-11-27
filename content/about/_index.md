@@ -19,7 +19,7 @@ My research focuses on graph signal processing, graph learning, and algorithm un
 
 ## Education
 
-- **Ph.D. Candidate**, Engineering, University of Osaka, expected March 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Learning Graphs from Data under Structural Constraints
+- **Ph.D. Candidate**, Engineering, University of Osaka, expected January 31, 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Graph Learning with Structural Assumptions: Temporal variation, structural balance, and Twofold Multimodal Dependencies
 - **M.S.**, Engineering, Tokyo University of Agriculture and Technology, 2023
 - **B.S.**, Engineering, Tokyo University of Agriculture and Technology, 2021
 

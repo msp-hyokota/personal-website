@@ -19,7 +19,7 @@ I'm a graduate student at the University of Osaka, MSP Lab, working on Signal Pr
 
 ## Education
 
-- **Ph.D. Candidate**, Engineering, University of Osaka, expected March 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Learning Graphs from Data under Structural Constraints
+- **Ph.D. Candidate**, Engineering, University of Osaka, expected January 31, 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Graph Learning with Structural Assumptions: Temporal variation, structural balance, and Twofold Multimodal Dependencies
 - **M.S.**, Engineering, Tokyo University of Agriculture and Technology, 2023
 - **B.S.**, Engineering, Tokyo University of Agriculture and Technology, 2021
 
@@ -67,6 +67,12 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=NBHWoy4AAAAJ)
 <div class="pub-authors">H. Yokota, H. Higashi, Y. Tanaka, G. Cheung</div>
 <div class="pub-venue">Pre-print on arXiv (Submitted to IEEE TSP)</div>
 <div class="pub-links"><a href="https://arxiv.org/abs/2506.01826">arXiv</a></div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">深層展開を用いた Multifold グラフの学習と信号復元 <span class="pub-tag pub-tag-domestic">Domestic</span></div>
+<div class="pub-authors">横田 陽樹, 田中 雄一</div>
+<div class="pub-venue">第41回信号処理シンポジウム, 広島, 2026年12月</div>
 </div>
 
 <div class="pub-entry">
