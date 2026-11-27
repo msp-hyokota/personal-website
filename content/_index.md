@@ -19,7 +19,7 @@ I'm a graduate student at the University of Osaka, MSP Lab, working on Signal Pr
 
 ## Education
 
-- **Ph.D. Candidate**, Engineering, University of Osaka, expected January 31, 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Graph Learning with Structural Assumptions: Temporal variation, structural balance, and Twofold Multimodal Dependencies
+- **Ph.D. Candidate**, Engineering, University of Osaka, expected January 31, 2027<br>Advisor: Prof. Yuichi Tanaka<br>Thesis: Graph Learning with Structural Assumptions: Temporal Variation, Structural Balance, and Twofold Multimodal Dependencies
 - **M.S.**, Engineering, Tokyo University of Agriculture and Technology, 2023
 - **B.S.**, Engineering, Tokyo University of Agriculture and Technology, 2021
 
