@@ -51,7 +51,7 @@ under the profile header and above About. Two pieces make that work:
 - `i18n/en.yaml` renames the theme's `shortcode.recent_articles` string from
   "Recent" to "News".
 
-`showRecentItems` in `config/_default/params.toml` caps how many appear (currently 5).
+`showRecentItems` in `config/_default/params.toml` caps how many appear (currently 3).
 Posts are ordered by their `date` front matter, so backdate a post to place it correctly
 in the timeline.
 

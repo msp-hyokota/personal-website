@@ -1,7 +1,7 @@
 # News posts
 
 Files in `content/posts/` appear as the **News** list directly under the profile header
-on the home page. Up to `showRecentItems` posts show there (5, set in
+on the home page. Up to `showRecentItems` posts show there (3, set in
 `config/_default/params.toml`); older posts stay reachable at `/posts/`. Posts are ordered
 by their `date` front matter.
 
